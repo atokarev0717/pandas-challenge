@@ -1,5 +1,5 @@
 # pandas-challenge
-Data Analysis Using Pandas
+Data Analysis Using Pandas Library in Python
 
 # Heroes of Pymoli
 Heroes of Pymoli is a fantasy game. The Data Set includes purchases information by player - [The Data Set Sample](./HeroesOfPymoli/Images/Data_Sample.png)
